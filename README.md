@@ -31,7 +31,7 @@ This project implements a digital lock system using an **ATmega32 microcontrolle
 ---
 
 ## How to Compile and Run
-1. Use **AVR GCC** or **Atmel Studio** to compile `main.c`.
+1. Use **Atmel Studio** to compile `main.c`.
 2. Program the compiled hex file to **ATmega32**.
 3. Connect the 7-segment display and buttons as per the pin configuration table.
 4. Press **PD7** to set the initial code.
