@@ -3,6 +3,9 @@
 **Description:**  
 This project implements a digital lock system using an **ATmega32 microcontroller**. The lock uses a **4-digit code** entered via buttons and displays status on a **4-digit 7-segment display**. Users can **set**, **verify**, and **reset** the code.
 
+![cod_setat](cod_setat.jpg)
+![set](set.jpg)
+
 ---
 
 ## Features
@@ -13,6 +16,7 @@ This project implements a digital lock system using an **ATmega32 microcontrolle
 - Simple and intuitive interface using buttons and 7-segment display
 
 ---
+![cod_setat](open.jpg)
 
 ## Pin Configuration
 
@@ -27,6 +31,7 @@ This project implements a digital lock system using an **ATmega32 microcontrolle
 
 ---
 
+![wrong](wrong_code.jpg)
 
 ---
 
